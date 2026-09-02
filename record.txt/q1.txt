@@ -1,0 +1,10 @@
+print("hi")
+h = ['home',"hospital","company"]
+for run in h:
+print(run)
+ var r1=10:
+ var r2=98:
+print(r1+r2)
+print ("welcome to python")
+
+

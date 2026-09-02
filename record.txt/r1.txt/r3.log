@@ -1,0 +1,183 @@
+    1  pwd
+    2  cd..
+    3  cd
+    4  vim --inatall
+    5  vim -info
+    6  mkdir stock1.txt
+    7  cd stock1.txt/
+    8  mkdir shopord1.txt
+    9  pwd
+   10  cd shopord1.txt/
+   11  touch s1.txt
+   12  cat s1.txt 
+   13  vi s1.txt 
+   14  ls
+   15  pwd
+   16  cat s1.txt 
+   17  echo "welcome">> s1.txt 
+   18  cat s1.txt 
+   19  vim s1.txt 
+   20  cat s1.txt 
+   21  touch hello.py
+   22  whoami
+   23  ls -lstr
+   24  ls -a
+   25  ~/
+   26  /
+   27  cd..
+   28  cd ..
+   29  cd..
+   30  cd ..
+   31  pwd
+   32  history
+   33  history >> history.txt
+   34  cat history.txt 
+   35  cd stock1.txt/shopord1.txt/
+   36  pwd
+   37  UNAME -A
+   38  uname -a
+   39  nano hi.txt
+   40  clear
+   41  li -l
+   42  ls -l
+   43  cat *.
+   44  cat *.txt
+   45  cp s1.txt backup.txt
+   46  rm s1.txt 
+   47  cat s1
+   48  cat backup.txt
+   49  ls
+   50  cd../..
+   51  cd ../..
+   52  mkdir free.py
+   53  pwd
+   54  cd free.py/
+   55  cd ..
+   56  clear
+   57  ls
+   58  ls -lstr
+   59  pwd
+   60  cd stock1.txt/
+   61  cs shopord1.txt/
+   62  cd  shopord1.txt/
+   63  touch help.txt
+   64  ls -lstr
+   65  cat *.py
+   66  cat *.txt
+   67  cat history
+   68  cd ../..
+   69  cat history.txt 
+   70  clear
+   71  man
+   72  man ls
+   73  ls -ha
+   74  cat .local
+   75  date
+   76  echo ai u
+   77  cd stock1.txt/
+   78  cat -- color
+   79  cat --color
+   80  cd /
+   81  cd ..
+   82  mkdir local1.txt
+   83  clear
+   84  pwd
+   85  cd ../..
+   86  cd stock.tx
+   87  SYNOPSIS
+   88  clear
+   89  mkdir file.txt
+   90  lr -lstr
+   91  ls -lstr
+   92  vi stock1.txt/
+   93  ls -lstr
+   94  mkdir record.txt
+   95  cd record.txt
+   96  touch r1.py
+   97  touch r2.py
+   98  echo "print("hi  i am arun")" >> r1.py 
+   99  vi r1.py
+  100  ps r1.py
+  101  ls -a
+  102  ls -ls
+  103  ls -lstr
+  104  cd ..
+  105  ~ 
+  106  python3 --version
+  107  cd record.txt
+  108  nano rr1.py
+  109  python3 r1.py
+  110  vi r1.py 
+  111  python3 r1.py
+  112  vi r1.py 
+  113  python3 r1.py
+  114  vi r1.py 
+  115  python3 r1.py
+  116  ps r1.txt
+  117  mv r1.py record.py
+  118  tail record.py 
+  119  vi r2.py 
+  120  python3 r2.py 
+  121  vi r2.py 
+  122  python3 r2.py 
+  123  vi r2.py 
+  124  ls -lstr
+  125  python3 record.py 
+  126  python2 r2.py
+  127  python3 r2.py 
+  128  vi r2.py 
+  129  cp r2.py f1.txt
+  130  cat f1.txt 
+  131  rm r2.py
+  132  ls
+  133  python3 f1.txt
+  134  head f1.txt
+  135  head -20 f1.txt 
+  136  tail f1.txt 
+  137  tail -12 f1.txt 
+  138  touch q1.txt
+  139  vi q1.txt 
+  140  python3 q1.txt
+  141  vi q1.txt 
+  142  python3 q1.txt
+  143  cat q1.txt
+  144  head record.py 
+  145  date
+  146  hostname
+  147  pwd
+  148  ls -lstr
+  149  ~
+  150  ls -lstr
+  151  cd..
+  152  cd ..
+  153  ls -lstr
+  154  clear
+  155  ls -lsrt
+  156  cat record.txt/
+  157  cat record.txt
+  158  cd record.txt/
+  159  ls
+  160  du
+  161  df record.py 
+  162  mkdir r1.txt
+  163  cd r1.txt/
+  164  uname -a
+  165  touch r1
+  166  vi r1 
+  167  echo "hello" >> r1
+  168  cd ../..
+  169  ~cat r1
+  170  ~ cat r1
+  171  ls "*.txt"
+  172  ls *.txt
+  173  ls r
+  174  ls r*
+  175  cd record.txt/r1.txt/
+  176  cat r1 
+  177  touch r2
+  178  vim r2
+  179  cat r2
+  180  echo 'var is variable' > r2
+  181  cat r2
+  182  ls
+  183  history >> r3.log

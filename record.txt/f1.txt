@@ -1,0 +1,17 @@
+" ar i can run the html program in ubuntu?
+python is used to repative task perfome 
+manage cloud ifrastructure  interactive with apis
+create deployment and monitoring" 
+
+var a1,a2;
+a1="apple";
+a2="petrol":
+    print(a1+a2):
+
+
+try :
+    file = open("record.txt")
+except fileNotFountEorror:
+    print("file is not found")
+
+to delete the directory

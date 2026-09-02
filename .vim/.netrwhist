@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/arun/stock1.txt/qw1.txt/i'
+let g:netrw_dirhist_4='/home/arun/stock1.txt/qw1.txt'
+let g:netrw_dirhist_3='/home/arun/stock1.txt/qw1.txt/i'
+let g:netrw_dirhist_2='/home/arun/stock1.txt/qw1.txt'
+let g:netrw_dirhist_1='/home/arun/stock1.txt/qw1.txt/i'
+let g:netrw_dirhist_0='/home/arun/stock1.txt/qw1.txt'
+let g:netrw_dirhist_9='/home/arun/stock1.txt/qw1.txt/i'
+let g:netrw_dirhist_8='/home/arun/stock1.txt/qw1.txt'
+let g:netrw_dirhist_7='/home/arun/stock1.txt/qw1.txt/i'
+let g:netrw_dirhist_6='/home/arun/stock1.txt/qw1.txt'
